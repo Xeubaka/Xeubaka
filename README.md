@@ -1,10 +1,8 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  - 👋 Hi, I’m Luis Roberto, aka @Xeubaka
-  - 👀 I’m curious and like to unravel the logic behind the things surrounding us.
-  - 🤖 What fascinates me about programming is that no matter the language, logic will always be a constant, and I enjoy seeing how it submits to concepts and parameters
+<p align="left">
+  🤖 What fascinates me about programming is that no matter the language, logic will always be a constant, and I enjoy seeing how it submits to concepts and parameters
 </p>
 
 <p align="left">
