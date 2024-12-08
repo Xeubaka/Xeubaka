@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Stacks:  PHP | RAILS | JAVA | GO
+  🦄 Stacks:  PHP | RAILS | NodeJS | GO
 </p>
 
 <p align="left">
-  🌱 I’m currently learning about Nodejs
+  🌱 I’m currently learning about AI
 </p>
 
 <p align="left">
