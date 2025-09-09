@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Stacks:  PHP | RAILS | NodeJS | GO
+  🦄 Stacks: NodeJS | GO | PHP | RAILS 
 </p>
 
 <p align="left">
